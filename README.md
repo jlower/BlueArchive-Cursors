@@ -1,2 +1,2 @@
-# BlueArchive-Cursors
-碧蓝档案指针-从原项目改动
+# BlueArchive-Cursors 碧蓝档案指针
+## 从[原项目](https://github.com/makipom/BlueArchive-Cursors)改动而来
